@@ -83,10 +83,10 @@ Use these connections when setting up your breadboard or PCB.
 This project is currently being documented.
 
 Upcoming documentation includes:
-- Wiring diagram  ✅
-- Hardware photos   ✅
-- Installation guide  ✅
-- Required libraries  
+- Wiring diagram ✅
+- Hardware photos ✅
+- Installation guide ✅
+- Required libraries ✅
 - LD2410C gate configuration
 - Demo GIF 
 - Project architecture  
@@ -133,6 +133,22 @@ Upcoming documentation includes:
    Presence, movement type, and distance update in real time via WebSockets.
 
 ---
+
+## 📚 Required Libraries
+
+This project uses the following PlatformIO/Arduino libraries:
+
+### PlatformIO Dependencies (auto‑installed)
+- **ld2410** – communication with the LD2410C mmWave radar  
+- **ArduinoJson** – JSON encoding for WebSocket messages  
+- **WebSockets** – real‑time WebSocket server for the dashboard  
+
+### Built‑in ESP32 Libraries
+- **WiFi** – ESP32 Wi‑Fi Access Point  
+- **WebServer** – serves the dashboard page  
+- **Arduino** – core ESP32 Arduino framework  
+
+PlatformIO will automatically install all required external libraries when you open the project.
 
 
 
