@@ -83,9 +83,9 @@ Use these connections when setting up your breadboard or PCB.
 This project is currently being documented.
 
 Upcoming documentation includes:
-✅ Wiring diagram  
-✅ Hardware photos   
-✅ Installation guide  
+- Wiring diagram  ✅
+- Hardware photos   ✅
+- Installation guide  ✅
 - Required libraries  
 - LD2410C gate configuration
 - Demo GIF 
@@ -108,25 +108,31 @@ Upcoming documentation includes:
    git clone https://github.com/AbdulKadir337/ESP32-LD2410C-Presence-Detection.git
 
 2. **Open the project in VS Code (PlatformIO)**
+   
    Make sure you have the PlatformIO extension installed.
 
-3. **Flash the firmware to your ESP32**
+4. **Flash the firmware to your ESP32**
+   
    Select the correct COM port and click "Upload"
 
-4. **Power the ESP32**
+6. **Power the ESP32**
+   
    It will automatically start the Wi-Fi Acces Point:
+   
    **SSID:** UAV-RADAR-NET  
    **Password:** 12345678  
    **IP:** 192.168.4.1
 
-5. **Open the dashboard**
+8. **Open the dashboard**
+   
    Connect to the AP and visit:
    http://192.168.4.1
 
-6. **View live radar data**
+10. **View live radar data**
+    
    Presence, movement type, and distance update in real time via WebSockets.
 
-
+---
 
 
 
