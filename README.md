@@ -18,9 +18,9 @@ This project demonstrates how low‑cost mmWave sensors can enable real‑time h
 
 Below are the physical components used in this project.
 
-<p align="center">
-  <img src="images/ld2410c-module.jpg" width="380" alt="LD2410C Radar Module" style="margin-right: 20px;">
-  <img src="images/esp32-wiring.jpg" width="380" alt="ESP32 Wiring Setup">
+<p align="center" style="display:flex; justify-content:space-between;">
+  <img src="images/ld2410c-module.jpg" width="48%" alt="LD2410C Radar Module">
+  <img src="images/esp32-wiring.jpg" width="48%" alt="ESP32 Wiring Setup">
 </p>
 
 These photos show the LD2410C mmWave radar sensor and the ESP32 DevKit wiring used for the dashboard setup.
