@@ -1,9 +1,10 @@
 # 📡 ESP32 LD2410C Human Presence Radar Dashboard
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-https://img.shields.io/badge/PlatformIO-ESP32-orange
-https://img.shields.io/badge/Arduino-ESP32-blue
-https://img.shields.io/badge/WebSockets-RealTime-green
-https://img.shields.io/badge/mmWave-LD2410C-purple
+![PlatformIO](https://img.shields.io/badge/PlatformIO-ESP32-orange)
+![Arduino](https://img.shields.io/badge/Arduino-ESP32-blue)
+![WebSockets](https://img.shields.io/badge/WebSockets-RealTime-green)
+![mmWave](https://img.shields.io/badge/mmWave-LD2410C-purple)
+
 
 
 My first solo IoT project built using an **ESP32** and the **Hi-Link LD2410C mmWave radar sensor**.
