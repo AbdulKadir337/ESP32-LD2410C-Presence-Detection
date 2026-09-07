@@ -35,7 +35,7 @@ Below is the connection layout between the **ESP32** and the **Hi-Link LD2410C m
   <img src="images/wiring-diagram.png" width="90%" alt="ESP32 LD2410C Wiring Diagram">
 </p>
 
-**Pin Mapping (Corrected):**
+**Pin Mapping:**
 - **VCC → 5V**
 - **GND → GND**
 - **TX → GPIO16**
@@ -83,8 +83,8 @@ Use these connections when setting up your breadboard or PCB.
 This project is currently being documented.
 
 Upcoming documentation includes:
-- Wiring diagram  
-- Hardware photos  
+✔️ Wiring diagram  
+✔️ Hardware photos  
 - Demo GIF  
 - Installation guide  
 - Required libraries  
@@ -94,5 +94,12 @@ Upcoming documentation includes:
 
 ---
 
-> **Note:** The LD2410C provides presence and distance information.  
-> The current radar interface includes a software-simulated angle visualization to demonstrate a future multi-sensor tracking concept.
+> ⚠️ **Note:**  
+> The LD2410C provides presence and distance information only.  
+> The current radar interface includes a **software‑simulated angle visualization** to demonstrate a future multi‑sensor tracking concept.
+> **The screenshots above show real sensor output, which does not include angle data.**
+
+
+
+
+
