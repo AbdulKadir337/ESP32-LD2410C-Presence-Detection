@@ -14,6 +14,15 @@ The dashboard displays live radar information using WebSockets for real-time upd
 
 This project demonstrates how low‑cost mmWave sensors can enable real‑time human detection for smart environments, robotics, and security systems.
 
+### Hardware Overview
+
+Below are the physical components used in this project.
+
+![LD2410C Radar Module](images/ld2410c-module.jpg)
+![ESP32 Wiring Setup](images/esp32-wiring.jpg)
+
+These photos show the LD2410C mmWave radar sensor and the ESP32 DevKit wiring used for the dashboard setup.
+
 
 ---
 
