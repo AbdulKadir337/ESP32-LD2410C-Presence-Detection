@@ -5,14 +5,14 @@
 ![WebSockets](https://img.shields.io/badge/WebSockets-RealTime-green)
 ![mmWave](https://img.shields.io/badge/mmWave-LD2410C-purple)
 
-
-
 My first solo IoT project built using an **ESP32** and the **Hi-Link LD2410C mmWave radar sensor**.
 
 The ESP32 creates its own Wi-Fi Access Point, allowing any nearby phone, tablet, or computer to connect directly to the dashboard without requiring an internet connection.  
 The dashboard displays live radar information using WebSockets for real-time updates.
 
 This project demonstrates how low‑cost mmWave sensors can enable real‑time human detection for smart environments, robotics, and security systems.
+
+---
 
 ### Hardware Overview
 
@@ -24,6 +24,25 @@ Below are the physical components used in this project.
 </p>
 
 These photos show the LD2410C mmWave radar sensor and the ESP32 DevKit wiring used for the dashboard setup.
+
+---
+
+### Wiring Diagram
+
+Below is the connection layout between the **ESP32** and the **Hi-Link LD2410C mmWave radar sensor**.
+
+<p align="center">
+  <img src="images/wiring-diagram.png" width="90%" alt="ESP32 LD2410C Wiring Diagram">
+</p>
+
+**Pin Mapping (Corrected):**
+- **VCC → 5V**
+- **GND → GND**
+- **TX → GPIO16**
+- **RX → GPIO17**
+- **OUT → Not Connected**
+
+Use these connections when setting up your breadboard or PCB.
 
 ---
 
