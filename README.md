@@ -5,6 +5,8 @@
 ![WebSockets](https://img.shields.io/badge/WebSockets-RealTime-green)
 ![mmWave](https://img.shields.io/badge/mmWave-LD2410C-purple)
 
+> ⭐ If you find this project useful, please consider starring the repo — it helps others discover it!
+
 My first solo IoT project built using an **ESP32** and the **Hi-Link LD2410C mmWave radar sensor**.
 
 The ESP32 creates its own Wi-Fi Access Point, allowing any nearby phone, tablet, or computer to connect directly to the dashboard without requiring an internet connection.  
