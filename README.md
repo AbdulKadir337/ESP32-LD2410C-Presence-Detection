@@ -1,9 +1,14 @@
 # 📡 ESP32 LD2410C Human Presence Radar Dashboard
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 My first solo IoT project built using an **ESP32** and the **Hi-Link LD2410C mmWave radar sensor**.
 
 The ESP32 creates its own Wi-Fi Access Point, allowing any nearby phone, tablet, or computer to connect directly to the dashboard without requiring an internet connection.  
 The dashboard displays live radar information using WebSockets for real-time updates.
+
+This project demonstrates how low‑cost mmWave sensors can enable real‑time human detection for smart environments, robotics, and security systems.
+
 
 ---
 
