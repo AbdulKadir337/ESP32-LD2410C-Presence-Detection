@@ -54,7 +54,7 @@ Use these connections when setting up your breadboard or PCB.
 
 ### 🎬 Live Dashboard Demonstration
 <p align="center">
-  <img src="images/demo.gif" width="600" alt="ESP32 2D UAV Radar Live Demo">
+  <img src="images/demo.gif" width="380" alt="ESP32 2D UAV Radar Live Demo">
 </p>
 
 ---
