@@ -1,4 +1,4 @@
-# 📡 ESP32 LD2410C Human Presence Radar Dashboard
+# 📡 ESP32 LD2410C Human Presence Detection System with a 2D UAV style Radar Dashboard
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-ESP32-orange)
 ![Arduino](https://img.shields.io/badge/Arduino-ESP32-blue)
