@@ -52,6 +52,13 @@ Use these connections when setting up your breadboard or PCB.
 
 ## 🖼️ Preview
 
+### 🎬 Live Dashboard Demonstration
+<p align="center">
+  <img src="images/demo.gif" width="600" alt="ESP32 2D UAV Radar Live Demo">
+</p>
+
+---
+
 ### No Target Detected
 <p align="center">
   <img src="images/dashboard-no-target.png" width="380" alt="No Target Detected">
