@@ -99,7 +99,7 @@ Upcoming documentation includes:
 - Installation guide ✅
 - Required libraries ✅
 - LD2410C gate configuration
-- Demo GIF 
+- Demo GIF ✅
 - Project architecture  
 - Future improvements  
 
